@@ -33,6 +33,17 @@
   </Token>
   <Token>
     <TokenIdentifier>
+      <Name>initialize</Name>
+      <APILanguage>java</APILanguage>
+      <Type>instm</Type>
+      <Scope>mainWin</Scope>
+    </TokenIdentifier>
+    <Path>classmain_win.html</Path>
+    <Anchor>ad7d141c1498081d02e50ec3f8beb5013</Anchor>
+    <DeclaredIn>mainWin.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
       <Name>neurIO::Global</Name>
       <APILanguage>java</APILanguage>
       <Type>cl</Type>
@@ -51,12 +62,100 @@
   </Token>
   <Token>
     <TokenIdentifier>
+      <Name>main</Name>
+      <APILanguage>java</APILanguage>
+      <Type>clm</Type>
+      <Scope>neurIO.Start</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1_start.html</Path>
+    <Anchor>aef3f6b2b34c677ae10ff69b507a2d4b4</Anchor>
+    <DeclaredIn>Start.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>printHelp</Name>
+      <APILanguage>java</APILanguage>
+      <Type>clm</Type>
+      <Scope>neurIO.Start</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1_start.html</Path>
+    <Anchor>ae057e60dad95a9bd37e41c860cae2fab</Anchor>
+    <DeclaredIn>Start.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>printColTest</Name>
+      <APILanguage>java</APILanguage>
+      <Type>clm</Type>
+      <Scope>neurIO.Start</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1_start.html</Path>
+    <Anchor>a2e18a32a484aa296caae592b4c8b9acd</Anchor>
+    <DeclaredIn>Start.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>printTruthTest</Name>
+      <APILanguage>java</APILanguage>
+      <Type>clm</Type>
+      <Scope>neurIO.Start</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1_start.html</Path>
+    <Anchor>aedb59a7fabe14787e4d792a87bb23c7b</Anchor>
+    <DeclaredIn>Start.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>printNetworkTest</Name>
+      <APILanguage>java</APILanguage>
+      <Type>clm</Type>
+      <Scope>neurIO.Start</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1_start.html</Path>
+    <Anchor>ae0f93675889ad60b4c42b39a64e94910</Anchor>
+    <DeclaredIn>Start.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
       <Name>neurIO::data::BitInput</Name>
       <APILanguage>java</APILanguage>
       <Type>cl</Type>
       <Scope>neurIO.data.BitInput</Scope>
     </TokenIdentifier>
     <Path>classneur_i_o_1_1data_1_1_bit_input.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>BitInput</Name>
+      <APILanguage>java</APILanguage>
+      <Type>instm</Type>
+      <Scope>neurIO.data.BitInput</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1data_1_1_bit_input.html</Path>
+    <Anchor>a8fd7c6ec8c91cac107c49d3a249b9881</Anchor>
+    <DeclaredIn>BitInput.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>get</Name>
+      <APILanguage>java</APILanguage>
+      <Type>instm</Type>
+      <Scope>neurIO.data.BitInput</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1data_1_1_bit_input.html</Path>
+    <Anchor>a408162646fafda86ba4736c7ccc13458</Anchor>
+    <DeclaredIn>BitInput.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>set</Name>
+      <APILanguage>java</APILanguage>
+      <Type>instm</Type>
+      <Scope>neurIO.data.BitInput</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1data_1_1_bit_input.html</Path>
+    <Anchor>ac1daaa68035a42bbc803ade1153861c5</Anchor>
+    <DeclaredIn>BitInput.java</DeclaredIn>
   </Token>
   <Token>
     <TokenIdentifier>
@@ -136,12 +235,32 @@
   </Token>
   <Token>
     <TokenIdentifier>
+      <Name>initialize</Name>
+      <APILanguage>java</APILanguage>
+      <Type>instm</Type>
+      <Scope>neurIO.gui.mainWin</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1gui_1_1main_win.html</Path>
+    <Anchor>aab47900a0e64469a9b97c6270643ef14</Anchor>
+    <DeclaredIn>mainWin.java</DeclaredIn>
+  </Token>
+  <Token>
+    <TokenIdentifier>
       <Name>neurIO::system::Neuron</Name>
       <APILanguage>java</APILanguage>
       <Type>cl</Type>
       <Scope>neurIO.system.Neuron</Scope>
     </TokenIdentifier>
     <Path>classneur_i_o_1_1system_1_1_neuron.html</Path>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>neurIO::system::Neuron::Presets</Name>
+      <APILanguage>java</APILanguage>
+      <Type>cl</Type>
+      <Scope>neurIO.system.Neuron.Presets</Scope>
+    </TokenIdentifier>
+    <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
   </Token>
   <Token>
     <TokenIdentifier>

@@ -103,6 +103,16 @@
                   <Path>classneur_i_o_1_1data_1_1_bit_set.html</Path>
                   <Anchor>af6f1dfe4ce5582a89dd327305d6d8f87</Anchor>
                  </Node>
+                 <Node>
+                  <Name>setLock</Name>
+                  <Path>classneur_i_o_1_1data_1_1_bit_set.html</Path>
+                  <Anchor>a53af6540a17581388d62d6f432f5d80d</Anchor>
+                 </Node>
+                 <Node>
+                  <Name>serialVersionUID</Name>
+                  <Path>classneur_i_o_1_1data_1_1_bit_set.html</Path>
+                  <Anchor>a65b3856567b2b7fee83193e320fe11e2</Anchor>
+                 </Node>
                 </Subnodes>
                </Node>
               </Subnodes>
@@ -183,6 +193,21 @@
                   <Path>classneur_i_o_1_1gui_1_1main_win.html</Path>
                   <Anchor>afea0b56eba10143502905975ceba7e25</Anchor>
                  </Node>
+                 <Node>
+                  <Name>initialize</Name>
+                  <Path>classneur_i_o_1_1gui_1_1main_win.html</Path>
+                  <Anchor>aab47900a0e64469a9b97c6270643ef14</Anchor>
+                 </Node>
+                 <Node>
+                  <Name>main</Name>
+                  <Path>classneur_i_o_1_1gui_1_1main_win.html</Path>
+                  <Anchor>a83d7ab4e35ec91fe149719b2c25cf834</Anchor>
+                 </Node>
+                 <Node>
+                  <Name>frmNeurio</Name>
+                  <Path>classneur_i_o_1_1gui_1_1main_win.html</Path>
+                  <Anchor>ad9f1f617ba2e697a71d2817b0ed8d1fc</Anchor>
+                 </Node>
                 </Subnodes>
                </Node>
               </Subnodes>
@@ -195,6 +220,37 @@
                 <Name>Neuron</Name>
                 <Path>classneur_i_o_1_1system_1_1_neuron.html</Path>
                 <Subnodes>
+                 <Node>
+                  <Name>Presets</Name>
+                  <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
+                  <Subnodes>
+                   <Node>
+                    <Name>AND</Name>
+                    <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
+                    <Anchor>aac0ad8e823e79a8940156bae25849766</Anchor>
+                   </Node>
+                   <Node>
+                    <Name>NAND</Name>
+                    <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
+                    <Anchor>a2f39bfa406e8b01b232fe104247c439b</Anchor>
+                   </Node>
+                   <Node>
+                    <Name>NOR</Name>
+                    <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
+                    <Anchor>aa2be6544ca34930f542abcceb69d0a8c</Anchor>
+                   </Node>
+                   <Node>
+                    <Name>OR</Name>
+                    <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
+                    <Anchor>ae87c4d0f6b3bf97862f991928c4a2158</Anchor>
+                   </Node>
+                   <Node>
+                    <Name>XOR</Name>
+                    <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
+                    <Anchor>a2bb6cea449aaca065149cee4d38c5f9d</Anchor>
+                   </Node>
+                  </Subnodes>
+                 </Node>
                  <Node>
                   <Name>Neuron</Name>
                   <Path>classneur_i_o_1_1system_1_1_neuron.html</Path>
@@ -267,6 +323,11 @@
                   <Path>classneur_i_o_1_1system_1_1_output_node.html</Path>
                   <Anchor>ae5d244e5bb2168f66acbca5854fc614c</Anchor>
                  </Node>
+                 <Node>
+                  <Name>makeOutputNodes</Name>
+                  <Path>classneur_i_o_1_1system_1_1_output_node.html</Path>
+                  <Anchor>a7573728315335709ca81071b797f62b8</Anchor>
+                 </Node>
                 </Subnodes>
                </Node>
                <Node>
@@ -304,6 +365,21 @@
                   <Anchor>a7f4d8c214884a035c30e6eb9accb4eb3</Anchor>
                  </Node>
                  <Node>
+                  <Name>colIndexName</Name>
+                  <Path>classneur_i_o_1_1system_1_1_truth.html</Path>
+                  <Anchor>a111599cd27bfb1e906cad589313c02d7</Anchor>
+                 </Node>
+                 <Node>
+                  <Name>generateStringHeader</Name>
+                  <Path>classneur_i_o_1_1system_1_1_truth.html</Path>
+                  <Anchor>a36c7d311f47af72a2fe8d4689de4d9c1</Anchor>
+                 </Node>
+                 <Node>
+                  <Name>generateStringTruth</Name>
+                  <Path>classneur_i_o_1_1system_1_1_truth.html</Path>
+                  <Anchor>ab87b56891179c3a4409c0b953867453a</Anchor>
+                 </Node>
+                 <Node>
                   <Name>getWidth</Name>
                   <Path>classneur_i_o_1_1system_1_1_truth.html</Path>
                   <Anchor>a842f96b6b8887a8c0efaa6d2b9f1a7c4</Anchor>
@@ -330,6 +406,11 @@
                   <Anchor>a9a4e5d68d6f275a51c7af28c5e4f11c2</Anchor>
                  </Node>
                  <Node>
+                  <Name>binaryWidth</Name>
+                  <Path>classneur_i_o_1_1system_1_1_truth_table.html</Path>
+                  <Anchor>a69909006883a5927d8f58c61c3d544c2</Anchor>
+                 </Node>
+                 <Node>
                   <Name>getResult</Name>
                   <Path>classneur_i_o_1_1system_1_1_truth_table.html</Path>
                   <Anchor>a47bb5f7ba445758e1b892e079c501212</Anchor>
@@ -343,6 +424,11 @@
                   <Name>isComplete</Name>
                   <Path>classneur_i_o_1_1system_1_1_truth_table.html</Path>
                   <Anchor>a0932bf77d2e3e05e0a317f8003e67e53</Anchor>
+                 </Node>
+                 <Node>
+                  <Name>makeTruths</Name>
+                  <Path>classneur_i_o_1_1system_1_1_truth_table.html</Path>
+                  <Anchor>a1146ea2f3e41f379b920947a2ad840d8</Anchor>
                  </Node>
                  <Node>
                   <Name>truths</Name>
@@ -362,12 +448,47 @@
               <Name>Global</Name>
               <Path>classneur_i_o_1_1_global.html</Path>
               <Subnodes>
+               <Node>
+                <Name>rept</Name>
+                <Path>classneur_i_o_1_1_global.html</Path>
+                <Anchor>a37771c58148bb2d133618814f8267e6c</Anchor>
+               </Node>
+               <Node>
+                <Name>args</Name>
+                <Path>classneur_i_o_1_1_global.html</Path>
+                <Anchor>a3c6209cd45e77078a54b91b9a4f4f677</Anchor>
+               </Node>
               </Subnodes>
              </Node>
              <Node>
               <Name>Start</Name>
               <Path>classneur_i_o_1_1_start.html</Path>
               <Subnodes>
+               <Node>
+                <Name>main</Name>
+                <Path>classneur_i_o_1_1_start.html</Path>
+                <Anchor>aef3f6b2b34c677ae10ff69b507a2d4b4</Anchor>
+               </Node>
+               <Node>
+                <Name>printColTest</Name>
+                <Path>classneur_i_o_1_1_start.html</Path>
+                <Anchor>a2e18a32a484aa296caae592b4c8b9acd</Anchor>
+               </Node>
+               <Node>
+                <Name>printHelp</Name>
+                <Path>classneur_i_o_1_1_start.html</Path>
+                <Anchor>ae057e60dad95a9bd37e41c860cae2fab</Anchor>
+               </Node>
+               <Node>
+                <Name>printNetworkTest</Name>
+                <Path>classneur_i_o_1_1_start.html</Path>
+                <Anchor>ae0f93675889ad60b4c42b39a64e94910</Anchor>
+               </Node>
+               <Node>
+                <Name>printTruthTest</Name>
+                <Path>classneur_i_o_1_1_start.html</Path>
+                <Anchor>aedb59a7fabe14787e4d792a87bb23c7b</Anchor>
+               </Node>
               </Subnodes>
              </Node>
             </Subnodes>
@@ -380,6 +501,21 @@
               <Name>mainWin</Name>
               <Path>classmain_win.html</Path>
               <Anchor>a49c22fb02a4187e69d8dd16607446e16</Anchor>
+             </Node>
+             <Node>
+              <Name>initialize</Name>
+              <Path>classmain_win.html</Path>
+              <Anchor>ad7d141c1498081d02e50ec3f8beb5013</Anchor>
+             </Node>
+             <Node>
+              <Name>main</Name>
+              <Path>classmain_win.html</Path>
+              <Anchor>a8fcc6dd4f93af4dd5a72a74c461a1fe0</Anchor>
+             </Node>
+             <Node>
+              <Name>frame</Name>
+              <Path>classmain_win.html</Path>
+              <Anchor>acdd1b1173499bd356487cde28e481fbe</Anchor>
              </Node>
             </Subnodes>
            </Node>
@@ -442,6 +578,10 @@
               <Path>classneur_i_o_1_1system_1_1_output_node.html</Path>
              </Node>
             </Subnodes>
+           </Node>
+           <Node>
+            <Name>neurIO.system.Neuron.Presets</Name>
+            <Path>classneur_i_o_1_1system_1_1_neuron_1_1_presets.html</Path>
            </Node>
            <Node>
             <Name>neurIO.Start</Name>
